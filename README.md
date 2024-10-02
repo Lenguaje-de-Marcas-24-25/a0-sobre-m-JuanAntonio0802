@@ -1,2 +1,20 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/jJ3oraFF)
-Cambia este readme.md por el contenido de la tarea Sobre mi 
+# SOBRE MI 
+### Juan Antonio Muñoz Godoy
+---
+Buenas, soy Juan Antonio Muñoz Godoy, vengo de Villaviciosa de Córdoba.
+### HOBBIES
+---
+1. Salir con mis amigos.
+2. Fútbol
+3. Pescar
+4. Pasar todo el tiempo que pueda con mi novia.
+
+### REDES SOCIALES
+---
+- INSTAGRAM: [juanantoniio_mnz](https://www.instagram.com/)
+- CORREO: [juanantoniio.mnz@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
+---
+
+>«Cuando somos amados, no dudamos de nada. Cuando amamos, dudamos de todo.»
+
+![MI FOTO](YOOOOOOOOOOOOU%20-%20copia.jpg)
